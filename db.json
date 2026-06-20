@@ -1,0 +1,7 @@
+{
+  "burguers": [
+    { "id": 1, "nome": "T-Burguer Classic", "preco": 24.90 },
+    { "id": 2, "nome": "Double Cheese", "preco": 29.90 }
+  ],
+  "pedidos": []
+}
